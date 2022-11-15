@@ -7,7 +7,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preznt)](https://github.com/Preznt/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preznt&theme=dark)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preznt&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preznt&theme=dark&layout=compact)
 
