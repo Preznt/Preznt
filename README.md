@@ -9,6 +9,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preznt&theme=dark)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preznt&theme=dark&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preznt&theme=dark&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Preznt&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
