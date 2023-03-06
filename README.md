@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20to%20Preznt&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Preznt&fontSize=60)
 
 # Summary
 ### :penguin:
